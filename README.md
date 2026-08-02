@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/976333/LeetCode/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
