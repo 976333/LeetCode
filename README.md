@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [1470-shuffle-the-array](https://github.com/976333/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/976333/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
