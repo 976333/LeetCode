@@ -2,6 +2,10 @@ class Solution {
     public boolean checkPerfectNumber(int num) {
         int prod = 0;
         int temp = 1;
+        if(num%2!=0)
+        {
+            return false;
+        }
 
         while((num/2)>=temp )
         {
