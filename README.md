@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/976333/LeetCode/tree/master/0125-valid-palindrome) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/976333/LeetCode/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/976333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
