@@ -1,7 +1,8 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int prod = 0;
-        int temp = 1;
+        int prod = 3;
+        int temp = 3;
+
         if(num%2!=0)
         {
             return false;
