@@ -3,11 +3,11 @@ class Solution {
         int prod = 0;
         int temp = 1;
 
-        while((num/2)>=temp)
+        while((num/2)>=temp )
         {
             if(num%temp==0)
             {
-                prod = prod+temp;
+                prod +=temp;
             }
             temp++;
         }
