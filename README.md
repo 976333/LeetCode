@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/976333/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/976333/LeetCode/tree/master/0507-perfect-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/976333/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/976333/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/976333/LeetCode/tree/master/2652-sum-multiples) |
@@ -59,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
