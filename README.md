@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/976333/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1470-shuffle-the-array](https://github.com/976333/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/976333/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/976333/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/976333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/976333/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/976333/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/976333/LeetCode/tree/master/0507-perfect-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/976333/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/976333/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/976333/LeetCode/tree/master/0342-power-of-four) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/976333/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/976333/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2206-divide-array-into-equal-pairs](https://github.com/976333/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/976333/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
