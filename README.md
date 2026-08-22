@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/976333/LeetCode/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/976333/LeetCode/tree/master/3099-harshad-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/976333/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
