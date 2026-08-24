@@ -8,6 +8,11 @@ class Solution {
             int count = 0;
             for(int j = 0;j<arr.length;j++)
             {
+                if(i>0 && arr[i]==arr[i-1])
+                {
+                    break;
+                }
+
                 if(arr[i]==arr[j])
                 {
                     count++;
