@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
 | [1313-decompress-run-length-encoded-list](https://github.com/976333/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/976333/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/976333/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/976333/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/976333/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/976333/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/976333/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2206-divide-array-into-equal-pairs](https://github.com/976333/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
