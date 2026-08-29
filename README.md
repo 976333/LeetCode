@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
 | [1313-decompress-run-length-encoded-list](https://github.com/976333/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/976333/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/976333/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/976333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
