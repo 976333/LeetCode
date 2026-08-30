@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/976333/LeetCode/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/976333/LeetCode/tree/master/3099-harshad-number) |
+| [3280-convert-date-to-binary](https://github.com/976333/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/976333/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/976333/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/976333/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/976333/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
+| [3280-convert-date-to-binary](https://github.com/976333/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/976333/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
