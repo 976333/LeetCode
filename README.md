@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/976333/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/976333/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/976333/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/976333/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/976333/LeetCode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/976333/LeetCode/tree/master/1025-divisor-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/976333/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/976333/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/976333/LeetCode/tree/master/2427-number-of-common-factors) |
