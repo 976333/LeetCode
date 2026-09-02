@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/976333/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/976333/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/976333/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/976333/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/976333/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/976333/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
