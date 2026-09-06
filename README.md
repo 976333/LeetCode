@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/976333/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3452-sum-of-good-numbers](https://github.com/976333/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/976333/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/976333/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/976333/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
