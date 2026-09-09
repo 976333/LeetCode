@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
+| [0575-distribute-candies](https://github.com/976333/LeetCode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/976333/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/976333/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/976333/LeetCode/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/976333/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/976333/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
