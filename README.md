@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/976333/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/976333/LeetCode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
@@ -96,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/976333/LeetCode/tree/master/0217-contains-duplicate) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/976333/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/976333/LeetCode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/976333/LeetCode/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/976333/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/976333/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
