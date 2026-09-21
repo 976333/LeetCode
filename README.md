@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/976333/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/976333/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
+| [2810-faulty-keyboard](https://github.com/976333/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/976333/LeetCode/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/976333/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/976333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/976333/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/976333/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2810-faulty-keyboard](https://github.com/976333/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/976333/LeetCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/976333/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
