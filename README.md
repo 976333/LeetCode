@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/976333/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1678-goal-parser-interpretation](https://github.com/976333/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/976333/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/976333/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/976333/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/976333/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/976333/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/976333/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/976333/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/976333/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/976333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/976333/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
