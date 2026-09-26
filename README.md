@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/976333/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/976333/LeetCode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/976333/LeetCode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/976333/LeetCode/tree/master/0682-baseball-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/976333/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/976333/LeetCode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/976333/LeetCode/tree/master/0414-third-maximum-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/976333/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 ## Hash Table
