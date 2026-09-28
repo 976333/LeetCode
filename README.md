@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/976333/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/976333/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/976333/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1678-goal-parser-interpretation](https://github.com/976333/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/976333/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/976333/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/976333/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/976333/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/976333/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/976333/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/976333/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/976333/LeetCode/tree/master/2460-apply-operations-to-an-array) |
