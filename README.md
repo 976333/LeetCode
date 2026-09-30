@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/976333/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/976333/LeetCode/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/976333/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1323-maximum-69-number](https://github.com/976333/LeetCode/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/976333/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/976333/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/976333/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/976333/LeetCode/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/976333/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/976333/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting Sort
