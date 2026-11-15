@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/976333/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/976333/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2942-find-words-containing-character](https://github.com/976333/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3452-sum-of-good-numbers](https://github.com/976333/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/976333/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/976333/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/976333/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/976333/LeetCode/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/976333/LeetCode/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/976333/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/976333/LeetCode/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/976333/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/976333/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
